@@ -1,6 +1,5 @@
 # project
 for Getting and Cleaning Data Course
-========================================
 
 # This repository contains the following files
 1. README.md
